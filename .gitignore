@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Composer/*
+!/Composer/task/
+/Composer/task/*
+!/Composer/task/task-manager
+!/Composer/task/main.py
